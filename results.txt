@@ -1,0 +1,8 @@
+"BREAKOUT" Game
+Date: 25.08.2022, 19:56
+
+Summary:
+Game ended in 129.646s
+You lost!
+Scored points: 17
+Remaining bricks: 13
